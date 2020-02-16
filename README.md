@@ -1,7 +1,7 @@
-# Developing Soft and Parallel Programming Skills Using Project-Based Learning
+Group Project A2 - Parallel Programming Basics and ARM Assembly Programming
 
-# The-Assemblers
-CS3210 Project 1
+Team Members: D'Anne Anthony, John Arthur, Brandon Moseley, Natasha Mullings, Joshua Taylor.
+CS3210 Project 2
 Members: 
 Brandon Moseley
 D'Anne Anthony 
