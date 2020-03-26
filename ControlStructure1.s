@@ -1,5 +1,5 @@
 .section .data
-x: .word 4   @32-bit signed integer
+x: .word 1   @32-bit signed integer
 .section .text
 .globl  _start
 _start:
