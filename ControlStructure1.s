@@ -1,7 +1,7 @@
 
 
 .section .data
-x: .word 3
+x: .word 1
 
 .section .text
 .global _start
